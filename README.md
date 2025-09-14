@@ -51,7 +51,7 @@ This project focuses on analyzing sales, vendors, and inventory performance to p
 
 ## 📑 Project Report  
 You can view the full project report and insights here:  
-👉 [Project Report](Vendor Performance Report.pdf)  
+👉 [Project Report](https://github.com/siva1104/Vendor-Performance-Analysis/blob/dc6a0a8522b1a26fe2b4d0328b1b4ac4951ae5aa/Vendor%20Performance%20Report.pdf)  
 
 ---
 
