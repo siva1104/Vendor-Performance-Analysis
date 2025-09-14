@@ -45,7 +45,7 @@ This project focuses on analyzing sales, vendors, and inventory performance to p
 
 ![Power BI Dashboard](https://github.com/siva1104/Vendor-Performance-Analysis/tree/dc6a0a8522b1a26fe2b4d0328b1b4ac4951ae5aa/Power%20BI%20Reoprt)  
 
-*(Replace the link above with the actual path of your screenshot in the repo)*  
+
 
 ---
 
