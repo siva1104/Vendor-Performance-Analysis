@@ -1,7 +1,5 @@
 # Vendor-Performance-Analysis
 
-# 🛒 Retail & Wholesale Inventory and Sales Analysis  
-
 ## 📌 Business Problem  
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies often face challenges such as inefficient pricing strategies, low inventory turnover, vendor dependency, and margin leakage, which can lead to financial losses.  
 
