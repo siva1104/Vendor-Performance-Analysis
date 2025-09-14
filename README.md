@@ -51,7 +51,7 @@ This project focuses on analyzing sales, vendors, and inventory performance to p
 
 ## 📑 Project Report  
 You can view the full project report and insights here:  
-👉 [Project Report](https://github.com/your-username/your-repo-name)  
+👉 [Project Report](Vendor Performance Report.pdf)  
 
 ---
 
